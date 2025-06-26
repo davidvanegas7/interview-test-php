@@ -1,0 +1,104 @@
+id,first_name,last_name,email,signup_date,amount_spent,country_code
+1234,john,doe,john@example.com,2023-11-15,250.50,US
+5678,mary,smith,mary.smith@gmail.com,2023-10-20,75.00,CA
+9012,  alice  ,johnson,alice.johnson@yahoo.com,2023-09-05,1250.75,GB
+3456,BOB,WILSON,bob.wilson@hotmail.com,2023-08-12,45.25,DE
+7890,charlie,brown,charlie@test.com,2023-07-18,850.00,FR
+1111,diana,garcia,invalid-email,2023-06-25,120.50,ES
+2222,edward,lee,edward@example.com,2023-05-30,5.00,IT
+3333,frank,taylor,frank.taylor@test.com,2023-04-15,999.99,XX
+4444,grace,miller,grace@domain.com,2023-03-10,150.25,AU
+5555,henry,davis,henry.davis@email.com,2023-02-20,-50.00,JP
+6666,isabella,rodriguez,isabella@gmail.com,2023-12-01,300.75,MX
+7777,james,anderson,james.anderson@yahoo.com,2023-11-28,425.00,BR
+8888,  karen  ,thompson,karen@hotmail.com,2023-11-25,89.99,AR
+9999,luis,martinez,luis.martinez@test.com,2023-11-22,750.25,CL
+1010,maria,gonzalez,maria@example.com,2023-11-18,155.50,CO
+1212,nikolai,petrov,nikolai@email.ru,2023-11-12,892.33,RU
+1313,olga,ivanova,olga.ivanova@mail.com,2023-11-08,67.80,UA
+1414,pierre,dubois,pierre@gmail.com,2023-11-05,234.90,BE
+1515,sofia,mueller,sofia.mueller@web.de,2023-11-02,445.60,AT
+1616,antonio,rossi,antonio@libero.it,2023-10-30,178.25,IT
+1717,   lars   ,nielsen,lars@outlook.com,2023-10-27,634.70,DK
+1818,erik,johansson,erik.johansson@gmail.com,2023-10-24,291.40,SE
+1919,helga,berg,helga@email.no,2023-10-21,367.85,NO
+2020,finn,virtanen,finn.virtanen@hotmail.fi,2023-10-18,123.45,FI
+2121,magnus,grimsson,magnus@iceland.is,2023-10-15,789.12,IS
+2222,seamus,o'connor,seamus@gmail.com,2023-10-12,456.78,IE
+2323,david,williams,david.williams@yahoo.co.uk,2023-10-09,543.21,GB
+2424,jean,martin,jean.martin@orange.fr,2023-10-06,234.56,FR
+2525,HANS,SCHMIDT,hans@gmx.de,2023-10-03,876.43,DE
+2626,giovanni,ferrari,giovanni@tiscali.it,2023-09-30,345.67,IT
+2727,carlos,silva,carlos.silva@gmail.com,2023-09-27,789.01,PT
+2828,dimitris,papadopoulos,dimitris@yahoo.gr,2023-09-24,123.89,GR
+2929,mehmet,yilmaz,mehmet@hotmail.com,2023-09-21,567.34,TR
+3030,ivan,horvat,ivan.horvat@gmail.com,2023-09-18,234.12,HR
+3131,ana,novak,ana@email.si,2023-09-15,678.90,SI
+3232,marko,petrovic,marko@yahoo.com,2023-09-12,345.23,RS
+3333,aleksandar,popovic,aleksandar@gmail.com,2023-09-09,456.78,ME
+3434,stefan,stojanovski,stefan@hotmail.com,2023-09-06,789.45,MK
+3535,  agron  ,hoxha,agron@yahoo.com,2023-09-03,123.67,AL
+3636,vladimir,moldovan,vladimir@gmail.com,2023-08-31,234.89,MD
+3737,andrei,popescu,andrei.popescu@yahoo.ro,2023-08-28,567.12,RO
+3838,georgi,petrov,georgi@abv.bg,2023-08-25,890.34,BG
+3939,janos,kovacs,janos@freemail.hu,2023-08-22,345.56,HU
+4040,pavel,novotny,pavel.novotny@seznam.cz,2023-08-19,678.78,CZ
+4141,jan,novak,jan@atlas.sk,2023-08-16,123.90,SK
+4242,tadeusz,kowalski,tadeusz@o2.pl,2023-08-13,456.12,PL
+4343,jonas,kazlauskas,jonas@gmail.com,2023-08-10,789.23,LT
+4444,janis,berzins,janis@inbox.lv,2023-08-07,234.45,LV
+4545,toomas,tamm,toomas@hot.ee,2023-08-04,567.67,EE
+4646,ahmed,hassan,ahmed@hotmail.com,2023-08-01,890.89,EG
+4747,mohamed,ali,mohamed.ali@gmail.com,2023-07-29,123.01,MA
+4848,fatima,ben-salem,fatima@yahoo.com,2023-07-26,345.23,TN
+4949,omar,abdallah,omar@email.com,2023-07-23,678.45,DZ
+5050,   amina   ,traore,amina@gmail.com,2023-07-20,234.67,ML
+5151,kwame,asante,kwame.asante@yahoo.com,2023-07-17,567.89,GH
+5252,adaora,okafor,adaora@hotmail.com,2023-07-14,890.12,NG
+5353,fatou,diallo,fatou@gmail.com,2023-07-11,123.34,SN
+5454,mamadou,barry,mamadou.barry@yahoo.com,2023-07-08,456.56,GN
+5555,john,kamau,john@safaricom.co.ke,2023-07-05,789.78,KE
+5656,grace,mukasa,grace.mukasa@gmail.com,2023-07-02,234.90,UG
+5757,david,mwangi,david@yahoo.com,2023-06-29,567.01,TZ
+5858,sarah,mutesi,sarah.mutesi@hotmail.com,2023-06-26,890.23,RW
+5959,patrick,ndayizeye,patrick@gmail.com,2023-06-23,123.45,BI
+6060,FATIMA,HASSAN,fatima@email.com,2023-06-20,456.67,SO
+6161,yusuf,ahmed,yusuf.ahmed@yahoo.com,2023-06-17,789.89,ET
+6262,aisha,mohammed,aisha@hotmail.com,2023-06-14,234.01,ER
+6363,omar,ibrahim,omar.ibrahim@gmail.com,2023-06-11,567.23,SD
+6464,maryam,ali,maryam@yahoo.com,2023-06-08,890.45,SS
+6565,thabo,mthembu,thabo.mthembu@gmail.com,2023-06-05,123.67,ZA
+6666,nomsa,dlamini,nomsa@hotmail.com,2023-06-02,456.89,SZ
+6767,   lesedi   ,motsepe,lesedi@yahoo.com,2023-05-30,789.01,LS
+6868,kgosi,mogale,kgosi.mogale@gmail.com,2023-05-27,234.23,BW
+6969,farai,chikwanha,farai@hotmail.com,2023-05-24,567.45,ZW
+7070,tendai,moyo,tendai.moyo@yahoo.com,2023-05-21,890.67,ZW
+7171,chipo,mukamuri,chipo@gmail.com,2023-05-18,123.89,ZM
+7272,blessings,banda,blessings@hotmail.com,2023-05-15,456.01,MW
+7373,carlos,pereira,carlos.pereira@gmail.com,2023-05-12,789.23,MZ
+7474,ana,santos,ana.santos@yahoo.com,2023-05-09,234.45,AO
+7575,joao,silva,joao@hotmail.com,2023-05-06,567.67,CV
+7676,raj,sharma,raj.sharma@gmail.com,2023-05-03,890.89,IN
+7777,priya,patel,priya@yahoo.com,2023-04-30,123.01,IN
+7878,mohammed,khan,mohammed.khan@hotmail.com,2023-04-27,456.23,PK
+7979,fatima,begum,fatima.begum@gmail.com,2023-04-24,789.45,BD
+8080,   nimal   ,fernando,nimal@yahoo.com,2023-04-21,234.67,LK
+8181,ahmed,rashid,ahmed.rashid@hotmail.com,2023-04-18,567.89,MV
+8282,pemba,sherpa,pemba@gmail.com,2023-04-15,890.01,NP
+8383,tenzin,norbu,tenzin.norbu@yahoo.com,2023-04-12,123.23,BT
+8484,aung,thant,aung@hotmail.com,2023-04-09,456.45,MM
+8585,somchai,srisawat,somchai@gmail.com,2023-04-06,789.67,TH
+8686,bouavanh,sisavath,bouavanh@yahoo.com,2023-04-03,234.89,LA
+8787,sophea,kim,sophea.kim@hotmail.com,2023-03-31,567.01,KH
+8888,nguyen,van,nguyen.van@gmail.com,2023-03-28,890.23,VN
+8989,   lim   ,wei,lim.wei@yahoo.com,2023-03-25,123.45,MY
+9090,ahmad,hassan,ahmad@hotmail.com,2023-03-22,456.67,SG
+9191,putu,made,putu.made@gmail.com,2023-03-19,789.89,ID
+9292,josefa,santos,josefa@yahoo.com,2023-03-16,234.01,TL
+9393,juan,dela cruz,juan.delacruz@hotmail.com,2023-03-13,567.23,PH
+9494,wang,li,wang.li@gmail.com,2023-03-10,890.45,CN
+9595,liu,ming,liu.ming@yahoo.com,2023-03-07,123.67,CN
+9696,chen,wei,chen@hotmail.com,2023-03-04,456.89,TW
+9797,park,min-jun,park@gmail.com,2023-03-01,789.01,KR
+9898,KIM,JI-HUN,kim@yahoo.com,2023-02-26,234.23,KP
+9999,batbayar,munkhbat,batbayar@hotmail.com,2023-02-23,567.45,MN
