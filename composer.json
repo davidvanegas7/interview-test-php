@@ -1,0 +1,17 @@
+{
+    "name": "eventim/php-test",
+    "description": "Eventim test for Senior PHP developer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.13"
+    },
+    "scripts": {
+        "lint": "phpcs --standard=PSR2 src",
+        "lint:fix": "phpcbf --standard=PSR2 src"
+    }
+}

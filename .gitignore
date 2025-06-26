@@ -1,0 +1,38 @@
+# Composer dependencies
+/vendor/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.idea/
+
+# crt for VPN
+cloudflare.crt
+
+# PHPStorm specific
+*.iml
+/.phpstorm.meta.php/
+
+# Docker-related
+.env
+.env.local
+docker-compose.override.yml
+
+# PHPUnit
+.phpunit.result.cache
+
+# Coverage reports
+coverage/
+build/logs/
+
+# Cache
+.cache/
+.php-cs-fixer.cache
+
+# Other
+node_modules/
+
+xdebug-profiles/

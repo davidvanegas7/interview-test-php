@@ -1,0 +1,21 @@
+{
+  "php.validate.enable": true,
+
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+
+  "intelephense.format.enable": true,
+  "intelephense.format.insertSpaces": true,
+  "intelephense.format.tabSize": 4,
+
+  "phpcs.enable": true,
+  "phpcs.standard": "PSR2",
+  "phpcs.executablePath": "${workspaceFolder}/vendor/bin/phpcs"
+}

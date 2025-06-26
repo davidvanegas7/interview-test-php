@@ -1,0 +1,33 @@
+# Set default text behavior
+* text=auto
+
+# Treat PHP files as text and set the line endings to LF
+*.php text eol=lf
+
+# Composer files as text
+composer.json text eol=lf
+composer.lock text eol=lf
+
+# Ignore binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.phar binary
+
+# Set shell scripts to have LF line endings and be executable
+*.sh text eol=lf
+
+# Normalize JSON and XML files line endings
+*.json text eol=lf
+*.xml text eol=lf
+
+# Mark editor config files as text
+.editorconfig text eol=lf
+
+# Mark markdown files as text
+*.md text eol=lf
