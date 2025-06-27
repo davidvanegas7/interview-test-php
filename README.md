@@ -28,6 +28,7 @@ This is a minimal Docker-based setup for running PHP 8 with Composer using plain
 2. **Use Composer inside the container:**
 
    To install packages:
+
    ```bash
    docker run --rm -it -v "$PWD":/app -w /app php-transform composer require vendor/package
    ```
@@ -137,7 +138,7 @@ You are tasked with building a PHP CLI application that:
     -w /app \
     -v "$PWD/xdebug-profiles":/tmp/xdebug \
     php-transform \
-    php src/bin/transform.php --input=/app/input.csv --output=/app/output.json
+    php src/bin/transform.php --input=app/input.csv --output=app/output.json
    ```
 
 3. Check `output.json` for the transformed data.
