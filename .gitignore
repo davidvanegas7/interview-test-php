@@ -8,6 +8,7 @@ Thumbs.db
 
 # IDEs
 .idea/
+.vscode/
 
 # crt for VPN
 cloudflare.crt
